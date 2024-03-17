@@ -7,16 +7,14 @@ Este é um aplicativo Todo List desenvolvido em Flutter para praticar estrutura 
 A interface do usuário foi inspirada em [https://encurtador.com.br/DIPWX](#).
 
 ### Tela Inicial (Home)
-![Tela Inicial](screenshots/home_screen.png)
+![Tela Inicial](screenshots/mob1.png)
 
 ### Adicionar Todo
-![Adicionar Todo](screenshots/add_todo_screen.png)
+![Adicionar Todo](screenshots/mob2.png)
 
 ### Todos Completados
-![Todos Completados](screenshots/completed_todos_screen.png)
+![Todos Completados](screenshots/mob3.png)
 
-### Editar Todo
-![Editar Todo](screenshots/edit_todo_screen.png)
 
 ## Tecnologias Utilizadas
 
