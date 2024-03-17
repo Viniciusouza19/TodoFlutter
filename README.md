@@ -4,7 +4,7 @@ Este é um aplicativo Todo List desenvolvido em Flutter para praticar estrutura 
 
 ## Demonstração da Interface de Usuário
 
-A interface do usuário foi inspirada em [insira aqui o link da interface de usuário inspirada](#).
+A interface do usuário foi inspirada em [https://encurtador.com.br/DIPWX](#).
 
 ### Tela Inicial (Home)
 ![Tela Inicial](screenshots/home_screen.png)
