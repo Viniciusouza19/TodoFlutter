@@ -30,13 +30,6 @@ Este projeto está em constante evolução. Futuras atualizações incluirão:
 
 Fique atento para futuras atualizações!
 
-## Como Executar
-
-1. Certifique-se de ter o Flutter instalado em seu sistema.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/todo-list-app.git`
-3. Navegue até o diretório do projeto: `cd todo-list-app`
-4. Execute o aplicativo: `flutter run`
-
 ## Estrutura de Arquivos
 
 Tentei seguir o máximo das estruturas recomendadas pela comunidade Flutter, porém, como estou aprendendo ainda, a estrutura pode não ser perfeita. Aqui está uma visão geral!
